@@ -2,7 +2,7 @@
 _Developer Creative Enthusiast (3D Modeler/Artist/Programmer_
 
 ## About Me
-<summary>
+<details>
 - Persuing an Associates Degree in Game Development
 - Types of skills include:
     - 3D Modeling experience
@@ -10,4 +10,4 @@ _Developer Creative Enthusiast (3D Modeler/Artist/Programmer_
     - Texturing experience (Substance Designer + Painter) ![](Unreal Engine)
     - 
 - 2 Years of being a freelance video editor
-</summary>
+</details>
