@@ -1,8 +1,8 @@
 ## Othniel Mayfield
 _Developer Creative Enthusiast (3D Modeler/Artist/Programmer_
 
-## About Me
-<details>
+<details> <summary>## About Me </summary>
+
 - Persuing an Associates Degree in Game Development
 - Types of skills include:
     - 3D Modeling experience
