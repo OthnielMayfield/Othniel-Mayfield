@@ -1,17 +1,13 @@
 ## Othniel Mayfield
-_Developer Creative Enthusiast (3D Modeler/Artist/Programmer
+_Developer Creative Enthusiast (3D Modeler/Artist/Programmer_
 
-<!--
-**OthnielMayfield/OthnielMayfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+<summary>
+- Persuing an Associates Degree in Game Development
+- Types of skills include:
+    - 3D Modeling experience
+    - Muliplayer map creation (Blockout, Modeling)  
+    - Texturing experience (Substance Designer + Painter) ![](Unreal Engine)
+    - 
+- 2 Years of being a freelance video editor
+</summary>
