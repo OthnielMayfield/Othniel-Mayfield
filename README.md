@@ -1,6 +1,6 @@
 ## Othniel Mayfield
 _Developer Creative Enthusiast (3D Modeler/Artist/Programmer_
-Program Experience: 
+<p/> Program Experience: 
 <details> <summary> 3D Modeling </summary> 
 - Blender <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDU9I0R6CHt1f-m7JpGnOtjE81HJPu32KCg&s" align="top" height="35"> Unreal Engine <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/video-games/unreal-engine-qdh1c46xy8c1nedruo2v5.png/unreal-engine-xwo7bd8vu6fzpnkcifgtu.png?_a=DATAg1AAZAA0" align="top" height="35"> 
 </details>
