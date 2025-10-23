@@ -1,4 +1,5 @@
-## Hi there 👋
+## Othniel Mayfield
+**'Developer Creative Enthusiast (3D Modeler/Artist/Programmer'**
 
 <!--
 **OthnielMayfield/OthnielMayfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
